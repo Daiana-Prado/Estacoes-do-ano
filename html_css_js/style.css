@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(174, 216, 214);
+    font: normal 15pt Arial;
+}
+
+*{
+    color: rgb(29, 27, 27);
+    text-align: center;
+}
+
+section{
+    border-radius: 12px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 8px rgba(41, 37, 37, 0.566);
+    background-color: cornsilk;
+}
+
